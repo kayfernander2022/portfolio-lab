@@ -1,13 +1,13 @@
 
 [
   {
-    "name": "project1",
-    "live": "https://app.herokuapp.com/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "name": "Gify App",
+    "live": "https://project1-xi-one.vercel.app/",
+    "git": "https://kayfernander2022.github.io/project1/",
+    "image": "./assets/itsagif.jpeg"
   },
   {
-    "name": "project2",
+    "name": "Allergy App",
     "live": "https://app.netlify.app/whatever",
     "git": "http://www.github.com/username/reponame",
     "image": "http://www.imgur.com/pictureofproject.png"
