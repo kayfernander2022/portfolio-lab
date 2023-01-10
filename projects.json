@@ -3,13 +3,13 @@
   {
     "name": "Gify App",
     "live": "https://project1-xi-one.vercel.app/",
-    "git": "https://kayfernander2022.github.io/project1/",
+    "git": "https://github.com/kayfernander2022/project1",
     "image": "./assets/itsagif.jpeg"
   },
   {
-    "name": "Allergy App",
+    "name": "Allergy Recipe Book",
     "live": "https://app.netlify.app/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "git": "https://github.com/kayfernander2022/project-2",
+    "image": "./assets/allergyapp.jpeg"
   }
 ]
